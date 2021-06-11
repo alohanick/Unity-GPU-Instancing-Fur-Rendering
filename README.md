@@ -3,7 +3,11 @@ This is a way that using GPU instancing technology to render the Fur, Shader has
 改良Shell技术，单pass shader渲染毛发，有毛发位移效果，帧数达到了900FPS/s
 
 Thanks
-https://user-images.githubusercontent.com/65901340/121575671-36c9e300-ca5a-11eb-9f2c-ec1458efe952.mp4
+
+
+https://user-images.githubusercontent.com/65901340/121711149-dd6ebc00-cb0c-11eb-89a6-680e0ced17a2.mp4
+
+
 
 Frame debugger show: using GPU Instancing in build-in pipeline:
 ![GPU Instancing](https://user-images.githubusercontent.com/65901340/121575789-582acf00-ca5a-11eb-9802-18de67acbf0a.png)
